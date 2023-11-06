@@ -1,0 +1,26 @@
+.btn1{
+    background-color: rgb(229, 151, 151);
+    border: 6px;
+    border-radius: 6px;
+    
+}
+.btn{
+    background-color: rgb(229, 151, 151);
+    border: 6px;
+    border-radius: 6px;
+    
+    
+}
+.img{
+   width: 34%; height: 300px;
+   border-style:groove; 
+ 
+
+}
+.container {
+    max-width: 700px;  height: 500px;  margin: 100px auto 0;  position: relative;  
+  }
+ 
+  
+ 
+ 
